@@ -15,13 +15,6 @@ This application enables to build a virtual Voting platform wherein a User (with
 - MongoDB
 - JSON Web Tokens (JWT) for authentication
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Prince-1501/voting_app.git
-
 
 # API Endpoints
 
